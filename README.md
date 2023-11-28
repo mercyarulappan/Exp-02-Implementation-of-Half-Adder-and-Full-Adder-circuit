@@ -1,6 +1,7 @@
-![ha diagram](https://github.com/mercyarulappan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149233730/89950722-9569-4f50-b342-b06d41beec92)![Screenshot 2023-11-28 134057](https://github.com/mercyarulappan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149233730/189c10ac-52b5-4737-8e19-6e5add15cd63)# Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
+![full diagram](https://github.com/mercyarulappan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149233730/0c2360d2-4eac-44c2-a534-5b1226ebc1e8)![ha diagram](https://github.com/mercyarulappan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149233730/babf4055-4ec5-4a3d-add5-4ad7fa02422f)![full diagram](https://github.com/mercyarulappan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149233730/52e572a1-9317-43b2-95ab-7e1c8d091bb7)
 
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
+
 ### AIM:
 To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming.
 
@@ -42,9 +43,21 @@ Program:
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 
 Developed by: MERCY A
+
 RegisterNumber: 23012506 
+
 */ 
-# Logic symbol & Truthtable
+# Half Adder:
+
+![ha coding](https://github.com/mercyarulappan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149233730/bb562efc-75da-4a47-a9d7-0d5c0e530547)
+
+
+# Full Adder:
+
+![full coding](https://github.com/mercyarulappan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149233730/0aec15ae-7b99-4e3e-8fa5-0568110ebb38)
+
+
+# Logic symbol & Truthtable:
 
 Half Adder:
 
@@ -61,20 +74,36 @@ Full Adder:
 Half Adder:
 
 
+![ha diagram](https://github.com/mercyarulappan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149233730/ce858fc7-21b6-4c6a-a137-fb75bfd4c3bb)
+
 
 
 Full Adder:
 
-![Uploading full diagram.png…]()
+
+![full diagram](https://github.com/mercyarulappan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149233730/dde23d00-4bb4-4d00-a9ac-7695ced7b6eb)
+
 
 
 
 ### Output:
 
-Half Adder
-### TIMING DIAGRAM
+### TIMING DIAGRAM:
+
+Half Adder:
 
 
-### TRUTH TABLE 
+![ha wave](https://github.com/mercyarulappan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149233730/8800fca6-efbc-486b-bf70-1fa6e467e691)
+
+
+Full Adder:
+
+![full wave](https://github.com/mercyarulappan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149233730/8e5e3603-f28b-4b29-b097-d7c85ab1c116)
+
+
+
+
+
+
 
 ### Result:
