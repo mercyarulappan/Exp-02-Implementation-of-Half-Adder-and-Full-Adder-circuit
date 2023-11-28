@@ -1,4 +1,4 @@
-![full diagram](https://github.com/mercyarulappan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149233730/0c2360d2-4eac-44c2-a534-5b1226ebc1e8)![ha diagram](https://github.com/mercyarulappan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149233730/babf4055-4ec5-4a3d-add5-4ad7fa02422f)![full diagram](https://github.com/mercyarulappan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149233730/52e572a1-9317-43b2-95ab-7e1c8d091bb7)
+
 
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
 
