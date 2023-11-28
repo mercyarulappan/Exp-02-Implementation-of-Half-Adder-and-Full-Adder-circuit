@@ -1,5 +1,4 @@
 
-
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
 
 ### AIM:
@@ -108,4 +107,4 @@ Full Adder:
 
 Thus implementation of half adder and full adder circuit are verified.
 
-/*
+
