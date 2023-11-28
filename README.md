@@ -86,9 +86,9 @@ Full Adder:
 
 
 
-### Output:
 
-### TIMING DIAGRAM:
+
+### OUTPUT / TIMING DIAGRAM:
 
 Half Adder:
 
